@@ -1,6 +1,4 @@
-### 一只码程序员LaJun 👋
-
-**LaJun/LaJun** 
+### 程序员LaJun 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
