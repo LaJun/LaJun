@@ -7,10 +7,6 @@
 
 ```PHP/Golang + Mysql/Mongo + Redis + Kafka + ELK + Docker + K8s + Javascript + Vue + Uniapp```
 
-😄 Character
-
- 爱折腾，有较强的学习能力和阅读英文文档能力，喜欢使用Github，Stack Overflow搜索问题寻找解决方案
-
 🤔 Hobbies
  
 女、羽毛球、象棋
